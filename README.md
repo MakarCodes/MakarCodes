@@ -1,17 +1,26 @@
-### Hello there, my name is Jarek - aka [MakarCodes] 👋
+### Hello there, my name is Jarek 👋
 
-## I'm a Frontend Developer and Mechanical Engineer!
+- 🔭 I’m currently working on developing websites with usage of React, styled-components
+- 🌱 I’m constantly learning best code practices by coding challenging components with usage of React, TypeScript, Jest (testing-library/react)
+- 🥅 2021 Goals: Join to ambitious international project and meet great people!
 
-I’m looking for an intern or a first job as Junior Front-end Developer 👩‍💻.
-I'm focus on learning how to create web applications and websites using new technologies 💻📲.
+## About me
+I am a mechanical engineer working as a Frontend Developer, who fall in love with coding!
+Highly interested in React technology, which gives opportunity to solve the same problem in so many different approaches!
+I'm focus on learning how to create web and desktop applications using the newest technologies 💻📲. 
+At the same time, I love working with people, traveling, and discovering the cultures of other nationalities.
 
-My strengths are good organization, analytical thinking, reliability, teamwork and commitment.
+- 💻 programmer 
+- 💡 problems solver
+- 😎 optimist & companion
+- 🎵 music lover
+- ⚽ footballer
+- 🏃 sport enthusiast
+- 🌴 traveler
 
-My favorites:
+Strong analytical, mathematical, programming skills, teamwork and accuracy are my best advantages!
 
-- 🐱 cats
-- 🏋️‍♀️ gym
-- 🥜 peanut butter [![instagram.png](https://i.postimg.cc/br4z3Lb7/instagram.png)](https://www.instagram.com/kocham.maslo.orzechowe/) [![facebook.png](https://i.postimg.cc/FsBw27Yx/facebook.png)](https://www.facebook.com/kochammasloorzechowe/)
+<br />
 
 ### Languages and Tools:
 
@@ -21,14 +30,6 @@ My favorites:
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
