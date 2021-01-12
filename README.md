@@ -3,8 +3,8 @@
 <br />
 
 - 🔭 I’m currently working on developing websites with usage of React, styled-components
-- 🌱 I’m constantly learning best code practices by coding challenging components with usage of React, TypeScript, Jest (testing-library/react)
-- 🥅 2021 Goals: Join to ambitious international project and meet great people!
+- 🌱 I’m constantly expanding my knowledge about best code practices by coding challenging components with usage of React, TypeScript, Jest (testing-library/react)
+- 🥅 2021 Goals: Join to ambitious international project and meet more fantastic people!
 
 <br />
 
