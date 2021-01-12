@@ -37,7 +37,7 @@ Strong analytical, mathematical, programming skills, teamwork and accuracy are m
 ![jest.png](https://i.postimg.cc/xCc0ZhxW/file-type-jest-snapshot-icon-130513.png)
 ![npm.png](https://i.postimg.cc/C5jVF09K/icons8-npm-48.png)
 ![webpack.png](https://i.postimg.cc/d01bXrBn/webpack-original-logo-icon-146300.png)
-![github.png](https://i.postimg.cc/x1fPTs9T/github-logo.png)
+![github.png](https://i.postimg.cc/x1fPTs9T/github-logo-48.png)
 ![<img align="left" alt="Visual Studio Code" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
 <img align="left" alt="GitHub" width="48px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
